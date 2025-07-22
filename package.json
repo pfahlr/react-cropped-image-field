@@ -1,0 +1,34 @@
+{
+  "name": "react-cropped-image-field",
+  "version": "1.0.0",
+  "main": "dist/react-cropped-image-field.umd.js",
+  "module": "dist/react-cropped-image-field.es.js",
+  "type": "module",
+  "files": [
+    "dist",
+    "src",
+    "index.js"
+  ],
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --config vite.config.js",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-easy-crop": "^5.5.0"
+  },
+  "peerDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "vite": "^7.0.5"
+  }
+}
