@@ -3,3 +3,6 @@ react module provides an form input for image uploads that presents the user wit
 
 ## Todo
 [ ] - should generate an image with the dimensions provided in the `width` and `height` parameters... not sure why this isn't working... 
+[ ] - add zoom and rotate
+[ ] - make UI look nice
+
